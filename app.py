@@ -1,5 +1,5 @@
 import streamlit as st
-import tensorflow-cpu as tf
+import tensorflow as tf
 import numpy as np
 from PIL import Image
 import tempfile
@@ -392,6 +392,7 @@ elif page == "Contact":
 
 
     st.write("🌐 website : www.yrindiancricketerimageclassification.com")
+
 
 
 
