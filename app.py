@@ -21,7 +21,7 @@ def load_model():
     return model
 # Side bar
 st.set_page_config(page_title="Indian Cricketer Recognition",layout="centered")
-st.sidebar.image(r"C:\Users\ADMIN\Desktop\Jupyter folder\Major Project\logo\logo.png",width=150)
+st.sidebar.image("logo.png",width=150)
 st.sidebar.write("🧭 Navigation")
 page = st.sidebar.radio("Go to",["Home","About Cricket","Image Classification","Indian Cricket Quiz","Contact"])
 st.sidebar.write("Give the Image Take the Knowledge.")
@@ -53,12 +53,12 @@ if page == "Home":
    set_bg()
    st.markdown("<h1 style='text-align:center;'>YR Indian Cricketer Image Classifier</h1>", unsafe_allow_html=True)
    st.caption("<h3 style='text-align:center;'> Give the Image Take the Knowledge. </h3>",unsafe_allow_html=True)
-   st.logo(r"C:\Users\ADMIN\Desktop\Jupyter folder\Major Project\logo\logo.png",icon_image=r"C:\Users\ADMIN\Desktop\Jupyter folder\Major Project\logo\logo.png")
+   st.logo("logo.png",icon_image="logo.png")
    st.set_page_config(layout='centered')
    col1, col2, col3 = st.columns([1,1,1.05])
    with col2:
-       st.logo(r"C:\Users\ADMIN\Desktop\Jupyter folder\Major Project\logo\logo.png")
-       st.image(r"C:\Users\ADMIN\Desktop\Jupyter folder\Major Project\logo\logo.png",width=300)
+       st.logo("logo.png")
+       st.image("logo.png",width=300)
 
 # About Cricket
 elif page == "About Cricket":
@@ -389,5 +389,6 @@ elif page == "Contact":
     st.write("📲 Mobile : +91 9385365443")
     st.write("☎ Landline : 044-123456")
     st.write("📧 Email-id : babumani429@gmail.com")
+
 
     st.write("🌐 website : www.yrindiancricketerimageclassification.com")
