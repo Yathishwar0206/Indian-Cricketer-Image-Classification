@@ -1,0 +1,222 @@
+{
+    "Dinesh Karthik": {
+        "displayName": "Dinesh Karthik",
+        "role": "Wicket-keeper batsman (Right-hand batsman)",
+        "born": "June 1, 1985, Chennai, Tamil Nadu",
+        "info": "Veteran finisher, famous comeback in T20Is.",
+        "ODI": "1750 runs",
+        "Test": "1000 runs",
+        "IPL": "4000+ runs",
+        "Man_of_the_Match": "2 in ODI, 1 in Test, 7 in IPL",
+        "Nickname": "DK"
+    },
+    "Hardik Pandya": {
+        "displayName": "Hardik Pandya",
+        "role": "All-rounder (Fast-bowling)",
+        "born": "October 11, 1993, Surat, Gujarat",
+        "info": "Explosive all-rounder and IPL-winning captain.",
+        "ODI": "1600 runs, 80 wickets",
+        "Test": "1000+ runs",
+        "IPL": "2500 runs, 64 wickets",
+        "Man_of_the_Match": "4 in ODI , 8 in IPL",
+        "Nickname": "Hardik"
+    },
+    "Ishan Kishan": {
+        "displayName": "Ishan Kishan",
+        "role": "Wicket-keeper batsman (Left-hand batsman)",
+        "born": "July 18, 1998, Patna, Bihar",
+        "info": "Explosive opener, fastest ODI double century for India.",
+        "ODI": "800+ runs",
+        "Test": "450 runs",
+        "IPL": "2300+ runs (Mumbai Indians)",
+        "Man_of_the_Match": "2 in ODI, 4 in IPL",
+        "Nickname": "Pocket Dynamo"
+    },
+    "Jasprit Bumrah": {
+        "displayName": "Jasprit Bumrah",
+        "role": "Fast_bowler",
+        "born": "December 6, 1993, Ahmedabad, Gujarat",
+        "info": "World\u2019s best all-format fast bowler.",
+        "ODI": "130 wickets",
+        "Test": "150 wickets",
+        "IPL": "150+ wickets",
+        "Man_of_the_Match": "2 in ODI, 2 in Test, 8 in IPL",
+        "Nickname": "Boom Boom"
+    },
+    "KL Rahul": {
+        "displayName": "KL Rahul",
+        "role": "Top-order batsman / Wicket-keeper",
+        "born": "April 18, 1992, Mangalore, Karnataka",
+        "info": "Versatile batsman with centuries in all formats.",
+        "ODI": "2000+ runs",
+        "Test": "2600+ runs",
+        "IPL": "4100+ runs",
+        "Man_of_the_Match": "5 in ODI, 2 in Test, 12 in IPL",
+        "Nickname": "KLR"
+    },
+    "MS Dhoni": {
+        "displayName": "MS Dhoni",
+        "role": "Wicket-keeper batsman (Right-hand batsman)",
+        "born": "July 7, 1981, Ranchi, Jharkhand",
+        "info": "Former Indian captain, one of the best finishers in world cricket. Led India to the 2011 ODI World Cup and CSK to multiple IPL titles.",
+        "ODI": "10773 runs in 350 matches",
+        "Test": "4876 runs in 90 matches",
+        "IPL": "5243 runs in 264 matches (CSK/RPS)",
+        "Man_of_the_Match": "21 in ODI, 4 in Test, 18 in IPL",
+        "Nickname": "Captain Cool, Thala, Mahi"
+    },
+    "Natarajan": {
+        "displayName": "Natarajan",
+        "role": "Bowler (Left-arm fast-medium)",
+        "born": "May 27, 1991, Salem, Tamil Nadu",
+        "info": "Yorker specialist who debuted in all formats during the Australia tour.",
+        "ODI": "2 wickets in 2 matches",
+        "Test": "3 wickets in 1 match",
+        "IPL": "50+ wickets (Sunrises Hyderabad)",
+        "Man_of_the_Match": "Nil",
+        "Nickname": "Yorker_King"
+    },
+    "Ravichandran Ashwin": {
+        "displayName": "Ravichandran Ashwin",
+        "role": "Bowler (Off-spin)",
+        "born": "September 17, 1986, Chennai",
+        "info": "Legendary Test spinner with 500+ wickets.",
+        "ODI": "150 wickets",
+        "Test": "500+ wickets",
+        "IPL": "170 wickets",
+        "Man_of_the_Match": "3 in ODI, 10 in Test, 5 in IPL",
+        "Nickname": "Ash"
+    },
+    "Ravindra Jadeja": {
+        "displayName": "Ravindra Jadeja",
+        "role": "All-rounder (Left-hand batsman, Left-arm spin)",
+        "born": "December 6, 1988, Gujarat",
+        "info": "Elite all-format all-rounder and outstanding fielder.",
+        "ODI": "2500 runs, 220 wickets",
+        "Test": "2800 runs, 290 wickets",
+        "IPL": "2500 runs, 150 wickets",
+        "Man_of_the_Match": "7 in ODI, 10 in Test, 14 in IPL",
+        "Nickname": "Jaddu"
+    },
+    "Rishabh Pant": {
+        "displayName": "Rishabh Pant",
+        "role": "Wicket-keeper batsman (Left-hand batsman)",
+        "born": "October 4, 1997, Roorkee, Uttarakhand",
+        "info": "Match-winner in Test cricket, especially overseas.",
+        "ODI": "1000+ runs",
+        "Test": "2300+ runs",
+        "IPL": "2800+ runs (Delhi Capitals)",
+        "Man_of_the_Match": "Nil",
+        "Nickname": "Pant"
+    },
+    "Rohit Sharma": {
+        "displayName": "Rohit Sharma",
+        "role": "Opening batsman (Right-hand batsman)",
+        "born": "April 30, 1987, Nagpur, Maharashtra",
+        "info": "Indian captain, holds record for three ODI double centuries.",
+        "ODI": "10000+ runs",
+        "Test": "4100+ runs",
+        "IPL": "6600+ runs (MI/DC)",
+        "Man_of_the_Match": "27 in ODI, 4 in Test, 14 in T20I, 21 in IPL",
+        "Nickname": "Hitman"
+    },
+    "Ruturaj Gaikwad": {
+        "displayName": "Ruturaj Gaikwad",
+        "role": "Opening batsman",
+        "born": "January 31, 1997, Pune",
+        "info": "Consistent IPL performer and CSK captain.",
+        "ODI": "600 runs",
+        "Test": "28 runs",
+        "IPL": "2500+ runs",
+        "Man_of_the_Match": "9 in IPL",
+        "Nickname": "Rutu"
+    },
+    "Sachin Tendulkar": {
+        "displayName": "Sachin Tendulkar",
+        "role": "Top-order batsman (Right-hand batsman)",
+        "born": "April 24, 1973, Mumbai, Maharashtra",
+        "info": "Widely regarded as the greatest batsman ever. Holds records for most international runs and 100 international centuries.",
+        "ODI": "18426 runs in 463 matches",
+        "Test": "15921 runs in 200 matches",
+        "IPL": "2334 runs in 78 matches (Mumbai Indians)",
+        "Man_of_the_Match": "62 in ODI, 14 in Test, 8 in IPL",
+        "Nickname": "Little Master, Master Blaster"
+    },
+    "Shreyas Iyer": {
+        "displayName": "Shreyas Iyer",
+        "role": "Middle-order batsman",
+        "born": "December 4, 1994, Mumbai",
+        "info": "Reliable middle-order batsman and IPL captain.",
+        "ODI": "2300 runs",
+        "Test": "700 runs",
+        "IPL": "3000+ runs",
+        "Man_of_the_Match": "5 in ODI, 6 in IPL",
+        "Nickname": "None"
+    },
+    "Shubman Gill": {
+        "displayName": "Shubman Gill",
+        "role": "Top-order batsman",
+        "born": "September 8, 1999, Punjab",
+        "info": "Elegant stroke-maker and future Indian star.",
+        "ODI": "2200+ runs",
+        "Test": "1300+ runs",
+        "IPL": "2000+ runs",
+        "Man_of_the_Match": "6 in ODI, 9 in IPL",
+        "Nickname": "Gill"
+    },
+    "Suresh Raina": {
+        "displayName": "Suresh Raina",
+        "role": "Middle-order batsman (Left-hand batsman)",
+        "born": "November 27, 1986, Uttar Pradesh",
+        "info": "Mr. IPL and key white-ball player for India.",
+        "ODI": "5600 runs",
+        "Test": "768 runs",
+        "IPL": "5500+ runs",
+        "Man_of_the_Match": "6 in ODI, 14 in IPL",
+        "Nickname": "Mr. IPL, Chinna Thala"
+    },
+    "Vijay Shankar": {
+        "displayName": "Vijay Shankar",
+        "role": "All-rounder (Right-hand batsman, Medium pace)",
+        "born": "January 26, 1991, Tirunelveli, Tamil Nadu",
+        "info": "Utility all-rounder, part of 2019 World Cup squad.",
+        "ODI": "220 runs, 4 wickets",
+        "Test": "Did not play",
+        "IPL": "730 runs, 9 wickets",
+        "Man_of_the_Match": "Nil",
+        "Nickname": "None"
+    },
+    "Virat Kohli": {
+        "displayName": "Virat Kohli",
+        "role": "Top-order batsman (Right-hand batsman)",
+        "born": "November 5, 1988, Delhi",
+        "info": "Modern-era great, known for consistency and chasing mastery. Former Indian captain.",
+        "ODI": "13800+ runs",
+        "Test": "8800+ runs",
+        "IPL": "8000+ runs (Royal Challenges Bangalore)",
+        "Man_of_the_Match": "44 in ODI, 10 in Test, 16 in T20I, 19 in IPL",
+        "Nickname": "King Kohli, Cheeku"
+    },
+    "Washington Sundar": {
+        "displayName": "Washington Sundar",
+        "role": "All-rounder (Left-hand batsman, Off-spin)",
+        "born": "October 18, 1999, Chennai, Tamil Nadu",
+        "info": "Economical powerplay bowler and useful lower-order batsman.",
+        "ODI": "16 wickets, 250 runs",
+        "Test": "300 runs, 6 wickets",
+        "IPL": "35 wickets, 350 runs",
+        "Man_of_the_Match": "Nil",
+        "Nickname": "None"
+    },
+    "Yashasvi Jaiswal": {
+        "displayName": "Yashasvi Jaiswal",
+        "role": "Opening batsman (Left-hand)",
+        "born": "December 28, 2001, Uttar Pradesh",
+        "info": "Young sensation with Test double centuries.",
+        "ODI": "Not played",
+        "Test": "1000+ runs",
+        "IPL": "1100+ runs",
+        "Man_of_the_Match": "5 in IPL",
+        "Nickname": "None"
+    }
+}
