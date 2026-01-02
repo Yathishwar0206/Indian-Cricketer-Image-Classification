@@ -13,6 +13,9 @@ MODEL_PATH = "cricketer_model.h5"
 FILE_ID = "138hKrKI_uITK7rLlA1WrEcPiuuVZc7Xc"
 GDRIVE_URL = f"https://drive.google.com/uc?id={FILE_ID}"
 
+st.cache_data.clear()
+st.cache_resource.clear()
+
 # Load model
 def load_model():
     if not os.path.exists(MODEL_PATH):
@@ -392,6 +395,7 @@ elif page == "Contact":
 
 
     st.write("🌐 website : www.yrindiancricketerimageclassification.com")
+
 
 
 
