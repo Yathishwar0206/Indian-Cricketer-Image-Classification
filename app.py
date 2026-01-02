@@ -57,7 +57,7 @@ if page == "Home":
    st.set_page_config(layout='centered')
    col1, col2, col3 = st.columns([1,1,1.05])
    with col2:
-       st.logo"logo/logo.png")
+       st.logo("logo/logo.png")
        st.image("logo/logo.png",width=300)
 
 # About Cricket
@@ -392,4 +392,5 @@ elif page == "Contact":
 
 
     st.write("🌐 website : www.yrindiancricketerimageclassification.com")
+
 
