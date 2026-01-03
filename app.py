@@ -1,5 +1,5 @@
 import streamlit as st
-import tensorflow as tf
+import keras
 import numpy as np
 from PIL import Image
 import tempfile
@@ -20,7 +20,7 @@ st.cache_resource.clear()
 def load_model():
     if not os.path.exists(MODEL_PATH):
         gdown.download(GDRIVE_URL, MODEL_PATH, quiet=False)
-    model = tf.keras.models.load_model(MODEL_PATH, compile=False)
+    model = keras.models.load_model(MODEL_PATH, compile=False)
     return model
 # Side bar
 st.set_page_config(page_title="Indian Cricketer Recognition",layout="centered")
@@ -395,6 +395,7 @@ elif page == "Contact":
 
 
     st.write("🌐 website : www.yrindiancricketerimageclassification.com")
+
 
 
 
